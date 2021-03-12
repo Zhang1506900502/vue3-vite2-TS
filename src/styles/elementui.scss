@@ -1,0 +1,46 @@
+.el-scrollbar__view {
+    height: 100%;
+}
+
+.el-dropdown {
+    font-size: 1.5em !important;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.el-icon-search:hover {
+    color: #2D5BF4;
+    cursor: pointer;
+}
+
+.el-icon-setting:hover {
+    color: #2D5BF4;
+    cursor: pointer;
+}
+
+
+.el-icon-full-screen:hover {
+    color: #2D5BF4;
+    cursor: pointer;
+}
+
+.bottom {
+    clear: both;
+    text-align: center;
+}
+
+.el-scrollbar__wrap {
+    overflow: hidden !important;
+}
+
+.el-table td,
+.el-table th {
+    text-align: center !important;
+}
+
+.scrollbar-wrapper {}
+
+.login .el-input__inner {
+    height: 50px !important;
+    font-size: 22px !important;
+}
